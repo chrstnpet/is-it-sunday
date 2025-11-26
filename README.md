@@ -1,7 +1,7 @@
 # Description
 
 ## index.html
-Displays a simple 'Hello World'.
+Contains an h1 tag for where the text goes.
 
 ## script.js 
-Includes a function that changes the text's color in the HTML file cyclically between black, blue, and green every one second.
+Changes text to "It is Sunday" in green color when it's Sunday and to "It is not Sunday" in blue when it's not. 
